@@ -21,9 +21,8 @@
 - 🎓 **教育背景**：计算机科学与技术专业
 - 📍 **地点**：西安
 - 💼 **寻求**：实习机会 | 后端/全栈开发工作
-## 🤝 Connect With Me
-📧 **邮箱**：zhaogecat@gmail.com
-💼 **GitHub**：[@zhaoge-cat](https://github.com/zhaoge-cat)
+- 📧 **邮箱**：zhaogecat@gmail.com
+
 ---
 
 ## 💻 技术栈
@@ -53,19 +52,20 @@
 
 完整的后端项目，包含路径规划、购票、数据管理等功能。
 
-```
-🔧 技术栈：Python + SQLite + Streamlit + Pandas
-✨ 功能：线路查询、路径规划、购票系统、数据统计
-📊 数据库：6 张表设计
-🧪 测试：单元测试覆盖核心逻辑
-📚 文档：完整 README + 详细注释
-```
+**技术栈**：Python + SQLite + Streamlit + Pandas
 
-**⭐ 技术亮点**：
-- 使用 BFS/Dijkstra 算法实现智能路径规划
-- SQLite 数据库设计与优化
-- Streamlit 快速原型开发
-- 单元测试覆盖率 > 80%
+**主要功能**：
+- 线路查询 - 查看所有地铁线路信息
+- 路径规划 - 支持同线路直达和跨线路换乘
+- 购票系统 - 自动计算票价、支持多人购票
+- 数据管理 - 添加/删除/修改线路和站点
+- 数据统计 - 票房和售票数据统计
+
+**技术亮点**：
+- ⭐ 使用 BFS/Dijkstra 算法实现智能路径规划
+- ⭐ SQLite 数据库设计（6 张表）
+- ⭐ Streamlit 快速原型开发
+- ⭐ 单元测试覆盖率 > 80%
 
 [**查看项目 →**](https://github.com/zhaoge-cat/metro-ticket-system)
 
@@ -76,17 +76,19 @@
 
 包含 4 个经典网页游戏，展示 JavaScript 和 Canvas API 的应用。
 
-```
-🔧 技术栈：HTML5 + CSS3 + JavaScript + Canvas API
-🎯 包含游戏：贪吃蛇、黄金矿工、雷霆飞机、坦克大战
-💅 特点：响应式设计、跨浏览器兼容
-🚀 部署：Node.js 服务器
-```
+**技术栈**：HTML5 + CSS3 + JavaScript + Canvas API + Node.js
 
-**⭐ 技术亮点**：
-- Canvas API 图形绘制
-- JavaScript 事件处理
-- 游戏逻辑设计与实现
+**包含游戏**：
+- 贪吃蛇 - 经典街机游戏
+- 黄金矿工 - 休闲益智游戏
+- 雷霆飞机 - 射击游戏
+- 坦克大战 - 动作游戏
+
+**技术亮点**：
+- ⭐ Canvas API 图形绘制和动画
+- ⭐ JavaScript 事件处理和交互
+- ⭐ 游戏逻辑设计与实现
+- ⭐ 响应式设计、跨浏览器兼容
 
 [**查看项目 →**](https://github.com/zhaoge-cat/meweb_001)
 
@@ -103,9 +105,9 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoge-cat&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zhaoge-cat&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoge-cat&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zhaoge-cat&layout=compact&theme=radical)
 
 </div>
 
@@ -127,7 +129,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@zhaoge--cat-black?style=flat&logo=github)](https://github.com/zhaoge-cat)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail)](mailto:your-email@example.com)
+
+[![Email](https://img.shields.io/badge/Email-zhaogecat@gmail.com-blue?style=flat&logo=gmail)](mailto:zhaogecat@gmail.com)
 
 </div>
 
@@ -135,7 +138,7 @@
 
 ## 💡 Fun Fact
 
-*"每个伟大的开发者都是从 'Hello World' 开始的。我的开始是一个地铁系统和几个小游戏。" 🚀*
+*"每个伟大的开发者都是从 'Hello World' 开始的。我的开始是一个地铁系统和几个小游戏。"* 🚀
 
 ---
 
