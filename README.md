@@ -21,9 +21,9 @@
 - 🎓 **教育背景**：计算机科学与技术专业
 - 📍 **地点**：西安
 - 💼 **寻求**：实习机会 | 后端/全栈开发工作
-- 📧 **联系方式**：📧
--          **邮箱**：[zhaogecat@gmail.com](mailto:zhaogecat@gmail.com)
-
+## 🤝 Connect With Me
+📧 **邮箱**：zhaogecat@gmail.com
+💼 **GitHub**：[@zhaoge-cat](https://github.com/zhaoge-cat)
 ---
 
 ## 💻 技术栈
